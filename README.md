@@ -9,3 +9,11 @@
 
   Run `npm run dev` to start the development server.
   
+  ## Tutorial
+  This program is suitable for business topics and can help your brand be at the forefront of AI topics. It supports Chat GPT, Google Ai, Perplexity, and more.
+  ### Storing company information
+  You need to store your company's business and company information in Word.
+  ### Support CMS binding
+  Hopefully you are using WordPress CMS, you will need to bind your website. There is a category ID selection.
+  ### Throw it to AI programming tools to modify the information
+  You'll need to submit your brand information and WordPress site information to Windsurf and prompt it to replace all GMI Cloud-related information with your brand information without destroying the existing article template. This will generate your own article. Currently, this template has an AI accuracy rate below 35%, achieving excellent AI display results.
