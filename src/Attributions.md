@@ -1,3 +1,1 @@
-This Figma Make file includes components from [shadcn/ui](https://ui.shadcn.com/) used under [MIT license](https://github.com/shadcn-ui/ui/blob/main/LICENSE.md).
-
-This Figma Make file includes photos from [Unsplash](https://unsplash.com) used under [license](https://unsplash.com/license).
+Generate AI-friendly content with a single click, allowing AI to successfully crawl your content and generate viral mentions of your brand. This is an example of a small MCP automated article generation application used by one of my clients. This is a purely front-end application, using the OpenRouter API and Grok4 models. You can save your brand information and pass it to the AI ​​Code tool for secondary updates. It can generate article content and submit it to WordPress with a single click.
